@@ -1,4 +1,4 @@
-public class Sort implements UserInput {
+public class Main implements UserInput {
     public static void main(String[] args) throws Exception {
         System.out.println("Для демонстрации сортировки слиянием введите 1");
         System.out.println("Для демонстрации пирамидальной сортировки введите 2");
